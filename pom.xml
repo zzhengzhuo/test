@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.unipass.customauth</groupId>
   <artifactId>android_sdk</artifactId>
-  <version>0.0.1-alpha.14</version>
+  <version>0.0.2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
